@@ -1,4 +1,4 @@
-package pe.edu.i202224141.spring_mvc.config;
+package pe.edu.cibertec.spring_mvc_jhelson.config;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
